@@ -1,12 +1,14 @@
+package.json
+
 {
-    "name":"simple devops-app",
-    "version":"1.0.0"
- "description"simple social media application for dev ops practice",
- "main":"app.js",
- "scripts"{
-"start":"node app.js",
-},
-"dependencies":{
-    "express":"^4.18.2"
-}
+  "name": "simple-devops-app",
+  "version": "1.0.0",
+  "description": "Simple app for DevOps practice",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
